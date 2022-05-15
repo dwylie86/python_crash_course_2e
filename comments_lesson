@@ -12,5 +12,6 @@ tenet_one = "Simple is better than complex."
 tenet_two = "Complex is better than complicated."
 tenet_three = "Readability counts"
 tenet_four = "There should be one-- and preferably only one --obvious way to do it."
-zen_of_python = f"{tenet_one} {tenet_two} {tenet_three} {tenet_four}"
+tenet_five = "Now is better than never."
+zen_of_python = f"{tenet_one} {tenet_two} {tenet_three} {tenet_four} {tenet_five}"
 print(zen_of_python)
